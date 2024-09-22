@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Arash Darzian # the website title (if blank, full name will be used instead)
-first_name: Arash
+title: Ara Dar # the website title (if blank, full name will be used instead)
+first_name: 
 middle_name: 
-last_name: Darzian
+last_name: 
 email: aradar91@proton.me
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A personal blog and portfolio website for Arash Darzian. I am a Ph.D. student in the Department of Electrical and Computer Engineering at the University of Toronto. My research interests include machine learning, computer vision, and robotics. I am passionate about developing intelligent systems that can perceive, understand, and interact with the world around them. I am also interested in software development, data science, and open-source projects.
@@ -93,7 +93,7 @@ pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid: # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
