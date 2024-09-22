@@ -25,14 +25,14 @@
       "startDate": "2023-03-31",
       "endDate": "2023-07-31",
       "highlights": [],
-      "summary": "Working on post-translational modifications in humans as a member of the Protein Bioinformatics group in the Department of Experimental Medical Science.",
+      "summary": "Worked on post-translational modifications in humans as a member of the Protein Bioinformatics group in the Department of Experimental Medical Science.",
       "url": "https://www.linkedin.com/company/5077"
       
     },
     {
       "name": "Levva Pharma",
-      "position": "Product Manager",
-      "startDate": "2020-10-31",
+      "position": "Product Manager | Founder",
+      "startDate": "2018-10-31",
       "endDate": "2022-06-30",
       "highlights": [],
       "summary": null,
@@ -113,11 +113,6 @@
   "publications": [],
   "skills": [
     {
-      "name": "Programming Languages",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Big Data Analytics",
       "level": "",
       "keywords": []
@@ -128,192 +123,27 @@
       "keywords": []
     },
     {
-      "name": "SQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Molecular Biology",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Anaconda",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Phylogenetics",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Machine Learning",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Business Strategy",
+      "name": "Python",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Critical Thinking",
+      "name": "R",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Biotechnology",
+      "name": "SQL",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Linux",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Data Science",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Supervised Learning",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "NGS",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Problem Solving",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "ISO 13485",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Data Analytics",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Project Management",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Web Scraping",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Unix",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Bash",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Good Manufacturing Practice (GMP)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Genome Analysis",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Microsoft Office",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Research and Development (R&D)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Python (Programming Language)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Data Collection",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Active Learning",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Computational Biology",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Quality Assurance",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Analytical Skills",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Tableau",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Genome Assembly",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Sequence Analysis",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Operations Management",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Data Visualization",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Quality Control",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Microbiology",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "R (Programming Language)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Genomics",
+      "name": "Bioinformatics",
       "level": "",
       "keywords": []
     },
@@ -323,12 +153,42 @@
       "keywords": []
     },
     {
-      "name": "Creativity Skills",
+      "name": "Data Mining",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Bioinformatics",
+      "name": "Data Science",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Genomics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Molecular Biology",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Proteomics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Shell Scripting",
       "level": "",
       "keywords": []
     },
