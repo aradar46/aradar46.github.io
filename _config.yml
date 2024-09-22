@@ -175,8 +175,7 @@ external_sources:
 
 newsletter:
   enabled: false
-  endpoint: # your loops endpoint (e.g., https://app.loops.so/api/newsletter-form/)
-  # https://loops.so/docs/forms/custom-form
+  endpoint: https://app.loops.so/api/newsletter-form/cm1ddriwo01mg9lazqji7q10l
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -306,8 +305,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: []
+  first_name: []
 
   style: apa
   locale: en
