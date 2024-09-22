@@ -1,200 +1,362 @@
 {
+
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Arash Darzian",
+    "label": "PhD Student | Bioinformatician",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "arash.darzian@outlook.com",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "countryCode": "SE",
+      "address": "Sweden"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "arash-darzian",
+        "url": "https://www.linkedin.com/in/arash-darzian/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Lund University",
+      "position": " Student Researcher at Biomedicinskt centrum",
+      "startDate": "2023-03-31",
+      "endDate": "2023-07-31",
+      "highlights": [],
+      "summary": "Working on post-translational modifications in humans as a member of the Protein Bioinformatics group in the Department of Experimental Medical Science.",
+      "url": "https://www.linkedin.com/company/5077"
+      
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Levva Pharma",
+      "position": "Product Manager",
+      "startDate": "2020-10-31",
+      "endDate": "2022-06-30",
+      "highlights": [],
+      "summary": null,
+      "url": "https://www.linkedin.com/company/68764116",
+      "location": null
+    },
+    {
+      "name": "Levva Pharma",
+      "position": "Research And Development ",
+      "startDate": "2019-07-31",
+      "endDate": "2020-10-31",
+      "highlights": [],
+      "summary": null,
+      "url": "https://www.linkedin.com/company/68764116",
+      "location": null
     }
   ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
+      "institution": "University of Tehran",
+      "area": "Microbial Biotechnology",
+      "studyType": "Master of Science - MS",
+      "startDate": "2014-12-31",
+      "endDate": "2017-12-31",
+      "score": "",
+      "courses": []
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "Karolinska Institutet",
+      "area": "Bioinformatics",
+      "studyType": "Doctor of Philosophy - PhD",
+      "startDate": "2023-09-30",
+      "endDate": "2027-09-30",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Lund University",
+      "area": "Bioinformatics",
+      "studyType": "Master's degree",
+      "startDate": "2022-08-31",
+      "endDate": "2023-09-30",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Shahed University",
+      "area": "Genetics",
+      "studyType": "Bachelor's degree",
+      "startDate": "2010-12-31",
+      "endDate": "2014-12-31",
+      "score": "",
+      "courses": []
     }
   ],
+  "awards": [],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Learning the Python 3 Standard Library",
+      "issuer": "LinkedIn",
+      "startDate": "2022-10-31",
+      "url": "https://www.linkedin.com/learning/certificates/99f8ffaacf8c53017c22d501efed8eea2b42449c84cd1936a611066cda15e3b9"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Supervised Learning Essential Training",
+      "issuer": "LinkedIn",
+      "startDate": "2022-10-31",
+      "url": "https://www.linkedin.com/learning/certificates/4149a2ea5e574edb80935cc7a452fee543e23c3af90bf49e86f128397d7714c2"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Python Data Analysis",
+      "issuer": "NASBA",
+      "startDate": "2022-10-31",
+      "url": "https://www.linkedin.com/learning/certificates/946e7d001c59d73d2631fe645dcd8e5b5ee57262bac95eeb7c60c7f844745797"
     }
   ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
+  "publications": [],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Big Data Analytics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google Cloud Platform (GCP)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Molecular Biology",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Anaconda",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Phylogenetics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Strategy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Critical Thinking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Biotechnology",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Science",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Supervised Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "NGS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Problem Solving",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ISO 13485",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Analytics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Scraping",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Unix",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bash",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Good Manufacturing Practice (GMP)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Genome Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Research and Development (R&D)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Collection",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Active Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computational Biology",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Quality Assurance",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Analytical Skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tableau",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Genome Assembly",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sequence Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Operations Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Visualization",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Quality Control",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microbiology",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "R (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Genomics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Creativity Skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bioinformatics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Statistical Data Analysis",
+      "level": "",
+      "keywords": []
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "fluency": "Professional Working",
+      "language": "English"
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "fluency": "Elementary Proficiency",
+      "language": "Swedish"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "fluency": "Native Speaker",
+      "language": "Persian"
     }
   ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
 }
