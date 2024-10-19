@@ -8,7 +8,7 @@ categories:  R RMarkdown VSCode Data-Science Bioinformatics
 tabs: true
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/prof_pic_color.png" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/R_programming_in_vscode.png" class="img-fluid rounded z-depth-1" %}
 
 
 # Introduction
