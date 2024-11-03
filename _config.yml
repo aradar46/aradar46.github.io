@@ -8,8 +8,8 @@ middle_name:
 last_name: 
 email: aradar91@proton.me
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A personal blog and portfolio website for Arash Darzian. I am a Ph.D. student in the Department of Electrical and Computer Engineering at the University of Toronto. My research interests include machine learning, computer vision, and robotics. I am passionate about developing intelligent systems that can perceive, understand, and interact with the world around them. I am also interested in software development, data science, and open-source projects.
-footer_text: 
+  A personal blog and portfolio website for Arash Darzian.
+footer_text:  
 keywords: Bioinformatics, Machine-learning, data-science, rnaseq, aradar # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -38,7 +38,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
