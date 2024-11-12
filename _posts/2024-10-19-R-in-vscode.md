@@ -25,8 +25,9 @@ Before you begin, you will need to obtain following paths set up on your system:
   - **Note:** Radian is an alternative R console that provides a more user-friendly interface. install with `pip install radian` if you don't have it.
 
 
-Therefore we need to have R installed on our system. If you don't have R installed, you can follow the steps at the end of this guide to install R using Miniconda.
+As you should know by now, R needs to be installed on your system. There are several ways to do this, but using Miniconda is the most recommended option for reproducibility and easier environment management. This approach is far better than the outdated RStudio garbage with its antiquated and rigid features that R users often cling to. Perhaps the Posit team's work on the Positron IDE will drag them into the modern era.
 
+Miniconda is particularly useful for managing different versions of R or installing packages with complex dependencies—something that can be a challenge for those sticking with RStudio. If you already have R installed on your system, you can skip the Miniconda installation steps and move on. If you don’t have R installed yet, just follow the steps at the end of this guide to install R using Miniconda or whichever method you prefer. Just make sure you have R installed and obtain the aboce necessary paths.
 
 ## Step 2: Install Required Packages in R 
 
@@ -38,7 +39,7 @@ install.packages("rmarkdown") # for working with RMarkdown files
 install.packages("httpgd") # for interactive plots
 ```
 
-**Pandoc** is automatically installed if you have RStudio on your machine. See the official [Pandoc installation guide](https://pandoc.org/installing.html) if you do not have RStudio. installation is quite simple and straightforward.
+**Install Pandoc** : See the official [Pandoc installation guide](https://pandoc.org/installing.html)  installation is quite simple and straightforward.
 
 ## Step 3: Set Up VS Code
 
@@ -47,7 +48,7 @@ Search for 'R' in the Extensions Marketplace and install it.
 Link: [vscode-R Extension](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r)
 
 
-Add the following settings to configure your VS Code environment for optimal use with R and RMarkdown. Open your VS Code settings (`settings.json`) and add the following configurations to your VS Code settings file:
+Open your VS Code settings (`settings.json`) and add the following configurations to your VS Code settings file:
 
 > **Note:** 
 > 1. Change `"r.rpath.linux"` to the R terminal path obtained in Step 1.
@@ -124,26 +125,20 @@ Add the following settings to configure your VS Code environment for optimal use
 }
 ```
 
-**Note:** When you start coding in R in VS Code, you can run `.vsc.attach()` in the R console to attach R to VS Code and benefit from the integrated environment and inspect your variables in the workspace viewer.
-
+**Note:** When you start coding in R in VS Code, you can run `.vsc.attach()` in the R console to attach R to VS Code and benefit from the integrated environment and inspect your variables in the R workspace viewer.
 
 
 ## Conclusion
 
-By following these steps, you can set up VS Code for R and RMarkdown, enhancing your coding experience and productivity. With the right configurations and packages, you can leverage the power of VS Code for R programming and data analysis tasks. Happy coding!
+That's it. Happy coding!
 
 
 
-
--------------------------------------------------------
--------------------------------------------------------
--------------------------------------------------------
-
-## Appendix: Install R using Miniconda (Optional)
+## Appendix: Install R using Miniconda 
 
 > **Note:** This guide is written for Linux users. If you are using Windows or macOS, the steps may vary slightly.
 
-There are several ways to install R, but using **Miniconda** is recommended for reproducibility and easier environment management. This method is particularly useful for maintaining different versions of R or installing packages with complex dependencies. If you already have R installed on your system, you can skip the Miniconda installation steps.
+
 
 #### Install Miniconda
 
