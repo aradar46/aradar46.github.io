@@ -3,20 +3,16 @@ layout: post
 title: Spanish Chicken Croquettes Recipe - Adrian Style
 date: 2024-11-25 14:02:13
 description:  cooking a dish from a random country challenge
-categories:  personal cooking
+categories:  personal
+tabs: true
 ---
 
-Cooking a dish from a random country challenge ended up being Chicken Croquettes. I had never heard of this dish before, but I got a recipe from a Spanish friend, gave it a try, and it turned out to be super delicious! The following is the recipe polished by chatgpt.
-
-
-
+Cooking a dish from a random country [challenge](https://aradar.blog/blog/2024/Small-light-challanges/) ended up being Chicken Croquettes. I had never heard of this dish before, but I got a recipe from a Spanish friend, gave it a try, and it turned out to be super delicious! The following is the recipe polished by chatgpt.
 
 #### **Preparation Time**
 - **Chicken (traditional method):** 1 hour
 - **Dough resting:** 2 hours
 - **Frying:** 1 hour
-
-
 
 
 #### **Ingredients (Serves 2)**
@@ -30,9 +26,6 @@ Cooking a dish from a random country challenge ended up being Chicken Croquettes
 - **Breadcrumbs or panko**
 - **Eggs:** 1–2 (beaten)
 
-
-
-
 **Required Tools**
 - Pot (for broth)
 - Large frying pan
@@ -40,8 +33,6 @@ Cooking a dish from a random country challenge ended up being Chicken Croquettes
 - Whisk
 - Spoons
 - Flat tray (with low edges)
-
-
 
 **Step-by-Step Instructions**
 
@@ -80,8 +71,6 @@ Cooking a dish from a random country challenge ended up being Chicken Croquettes
 
 10. **Serve & Enjoy:**
     - Serve the croquettes hot and crispy. Any leftover béchamel dough can be frozen for future use.
-
-
 
 
  **Tips**
