@@ -15,25 +15,25 @@ So, I decided to create a list of small and light challenges for myself. These c
 
 Here’s the list:
 
-- [x] Cook a dish from a random country 
-- [ ] Turkey for Thanksgiving
-- [ ] making a snowman
-- [ ] Hunting a bird
-- [ ] Hosting a dinner party
-- [ ] Sensory deprivation tank
-- [ ] Bungi Jumping
+- [x] Cook a dish from a random country
+- [ ] Make turkey for Thanksgiving
+- [ ] Make a snowman
+- [ ] Hunt a bird
+- [ ] Host a dinner party
+- [ ] Try a sensory deprivation tank
+- [ ] Go bungee jumping
 - [ ] Watch a Kiarostami movie
-- [ ] 1 day of silence
+- [ ] Spend 1 day in silence
 - [ ] Visit a National Park
-- [ ] 10-finger typing
+- [ ] Learn 10-finger typing
 - [ ] Make something with wood
 - [ ] Help a stranger or a friend
 - [ ] Eat a new fruit
-- [ ] 1 day of no internet
+- [ ] Spend 1 day with no internet
 - [ ] Finish a book
-- [ ] 1 day of no screen
+- [ ] Spend 1 day with no screens
 - [ ] Run 10 km
-- [ ] Volunteer in a charity
+- [ ] Volunteer for a charity
 - [ ] Try a new cuisine
 - [ ] Learn a magic trick
 - [ ] Do a random act of kindness
@@ -42,7 +42,7 @@ Here’s the list:
 - [ ] Learn a simple dance routine
 - [ ] Visit a local museum or gallery
 - [ ] Take a cold shower for a week
-- [ ] Ride a bike to a destination and Meditate for 30 minutes in nature
+- [ ] Ride a bike to a destination and meditate for 30 minutes in nature
 - [ ] Take part in a local community event
 - [ ] Try a water sport
 - [x] Write a poem or short story
@@ -53,20 +53,20 @@ Here’s the list:
 - [ ] Draw or paint something
 - [ ] Learn to fold origami
 - [ ] Watch a documentary about a new topic
-- [ ] Take a photo walk in your area
+- [ ] Take a photo walk in my area
 - [ ] Write a handwritten letter to someone
 - [ ] Attend a free workshop or class
 - [ ] Visit a farmer's market
 - [ ] Go for a long walk without headphones
 - [ ] Have a picnic in a park
-- [ ] Donate something you no longer use
+- [ ] Donate something I no longer use
 - [ ] Watch the clouds and identify shapes
 - [ ] Do a random compliment challenge for a day
-- [ ] Learn to whistle or snap your fingers
-- [ ] Visit a historical landmark near you
-- [ ] Learn 10 genre of music
+- [ ] Learn to whistle or snap my fingers
+- [ ] Visit a historical landmark near me
+- [ ] Learn 10 genres of music
 - [ ] Try geocaching or a treasure hunt app
-- [ ] Write down your top 10 favorite memories
+- [ ] Write down my top 10 favorite memories
 - [ ] Stargaze and learn a constellation
 - [ ] Plan a fun activity for someone else
 - [ ] Spend a day speaking only in positive words
@@ -77,7 +77,7 @@ Here’s the list:
 - [ ] Visit a library and browse randomly
 - [ ] Write a review for a favorite local business
 - [ ] Listen to music from a different culture
-- [ ] Take a mindful walk, focusing on your senses
+- [ ] Take a mindful walk, focusing on my senses
 - [ ] Skip the elevator and take the stairs all day
 - [ ] Learn a basic phrase in sign language
 - [ ] Play a classic game like hopscotch or tag
@@ -87,4 +87,4 @@ Here’s the list:
 - [ ] Try a coloring book for relaxation
 - [ ] Volunteer to walk a neighbor's dog
 - [ ] Learn to make a simple smoothie or juice
-- [ ] go to a bar and order anything except beer and whiskey!
+- [ ] Go to a bar and order anything except beer and whiskey!

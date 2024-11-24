@@ -72,8 +72,7 @@ Cooking a dish from a random country [challenge](https://aradar.blog/blog/2024/S
 10. **Serve & Enjoy:**
     - Serve the croquettes hot and crispy. Any leftover béchamel dough can be frozen for future use.
 
-
- **Tips**
+#### Tips
 - Use leftover chicken from soups or stews for added flavor.
 - Ensure croquettes are evenly sized for uniform frying.
 - For best results, stick to frying; air fryers may alter the texture.
