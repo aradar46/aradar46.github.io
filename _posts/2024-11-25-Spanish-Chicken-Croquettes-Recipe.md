@@ -8,14 +8,16 @@ categories:  personal cooking
 
 Cooking a dish from a random country challenge ended up being Chicken Croquettes. I had never heard of this dish before, but I got a recipe from a Spanish friend, gave it a try, and it turned out to be super delicious! The following is the recipe polished by chatgpt.
 
----
+
+
 
 #### **Preparation Time**
 - **Chicken (traditional method):** 1 hour
 - **Dough resting:** 2 hours
 - **Frying:** 1 hour
 
----
+
+
 
 #### **Ingredients (Serves 2)**
 - **Chicken:** 1 thigh and over-thigh (or leftover stew chicken)
@@ -28,9 +30,10 @@ Cooking a dish from a random country challenge ended up being Chicken Croquettes
 - **Breadcrumbs or panko**
 - **Eggs:** 1–2 (beaten)
 
----
 
-#### **Required Tools**
+
+
+**Required Tools**
 - Pot (for broth)
 - Large frying pan
 - Strainer
@@ -38,9 +41,9 @@ Cooking a dish from a random country challenge ended up being Chicken Croquettes
 - Spoons
 - Flat tray (with low edges)
 
----
 
-#### **Step-by-Step Instructions**
+
+**Step-by-Step Instructions**
 
 1. **Prepare the Chicken:**
    - Boil the chicken thigh and over-thigh with vegetables (e.g., onion, carrot, potato) to make a flavorful broth.
@@ -78,9 +81,10 @@ Cooking a dish from a random country challenge ended up being Chicken Croquettes
 10. **Serve & Enjoy:**
     - Serve the croquettes hot and crispy. Any leftover béchamel dough can be frozen for future use.
 
----
 
-#### **Tips**
+
+
+ **Tips**
 - Use leftover chicken from soups or stews for added flavor.
 - Ensure croquettes are evenly sized for uniform frying.
 - For best results, stick to frying; air fryers may alter the texture.
