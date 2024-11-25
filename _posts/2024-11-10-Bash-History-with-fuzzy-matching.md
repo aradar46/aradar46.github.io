@@ -8,7 +8,6 @@ categories:  Command-Line
 tabs: true
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/bashHistory.jpg" class="img-fluid rounded z-depth-1" %}
 
 
 *Boost productivity by expanding your command history and adding the power of `fzf` fuzzy search to your terminal.*

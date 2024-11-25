@@ -8,8 +8,6 @@ categories:  R RMarkdown VSCode Data-Science Bioinformatics
 tabs: true
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/R_programming_in_vscode.png" class="img-fluid rounded z-depth-1" %}
-
 
 # Introduction
 
@@ -51,10 +49,12 @@ Link: [vscode-R Extension](https://marketplace.visualstudio.com/items?itemName=R
 Open your VS Code settings (`settings.json`) and add the following configurations to your VS Code settings file:
 
 > **Note:** 
-> 1. Change `"r.rpath.linux"` to the R terminal path obtained in Step 1.
+
+> 1. Change `"r.rpath.linux"` to the R terminal path obtained in Step 1. 
 > 2. Change `"r.libPaths"` to the R library path obtained in Step 1.
 > 3. Change `"r.rterm.linux"` to the radian path obtained in Step 1 (if using radian).
 > 4. Ensure `"files.associations"` is empty to avoid issues with RMarkdown.
+
 
 ```json
 {
